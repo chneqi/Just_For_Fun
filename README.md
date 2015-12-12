@@ -3,8 +3,8 @@
 
 1. callby/applyby
 
-#### callby and applyby
 ========
+#### callby and applyby
 define in file callby.js
 
 add methods **callby** and **applyby** to Object.prototype
