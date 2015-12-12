@@ -3,7 +3,7 @@
 
 ========
 #### callby.js
-Add method **callby** and **applyby** to Object.prototype
+Add methods **callby** and **applyby** to Object.prototype
 ```javascript
 // function call
 func(arg_1, arg_2, ...arg_x)
