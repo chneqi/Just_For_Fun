@@ -1,11 +1,16 @@
 # Just For Fun
 记录一些有趣的东西
 
-1. callby.js
+1. callby/applyby
 
+#### callby and applyby
 ========
-#### callby.js
-Add methods **callby** and **applyby** to Object.prototype
+define in file callby.js
+
+add methods **callby** and **applyby** to Object.prototype
+
+
+定义在callby.js中
 
 为Object原型添加**callby** 和 **applyby**方法
 ```javascript
